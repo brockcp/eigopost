@@ -5,7 +5,7 @@ gem 'rails', '~> 5.1.4'
 group :production do
   gem 'pg', '~> 0.20'
   gem 'rails_12factor'
-  gem 'puma', '~> 3.7'
+  gem 'puma', '~> 4.3'
 end
 
 gem 'sass-rails', '~> 5.0'
